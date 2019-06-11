@@ -61,5 +61,6 @@ let make = (~initialNotes, _children) => {
           )
        |> Array.of_list
        |> RR.array}
+       <div><DemoComponent.Jsx2 name="kevin" /></div>
     </div>,
 };

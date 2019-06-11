@@ -6,11 +6,7 @@
  "sources": [{
    "dir": "src",
    "subdirs": true
- },
-  {
-    "dir": "__tests__",
-    "type": "dev"
-  }],
+ }],
   "package-specs": {
    "module": "commonjs",
    "in-source": true
@@ -19,11 +15,6 @@
   "bs-dependencies": [
   "reason-react"
   ],
-  "bs-dev-dependencies": ["@glennsl/bs-jest",
-                          "bs-react-testing-library",
-                          "bs-dom-testing-library",
-                          "bs-webapi",
-                          "reason-future"],
   "warnings": {
    "error": "+101"
   },

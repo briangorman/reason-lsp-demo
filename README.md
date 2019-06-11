@@ -1,5 +1,4 @@
-# reason-react-testing-example
-A simple project to demonstrate how to do snapshot and functional component tests with ReasonReact.
+A simple project to demonstrate issues with reason-language-server resulting in issues being reported that are not real.
 
 ### Running the project
 
